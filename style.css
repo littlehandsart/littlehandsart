@@ -1,0 +1,27 @@
+h3{
+  color: red;
+  text-align: center;
+}
+body {
+  background-color: darkgray;
+  background-image: url("logo.jpg");
+  background-repeat: no-repeat;
+  background-size: 1200px 1080px;
+}
+nav{
+  background-color: black;
+  color: whitesmoke;
+  padding: 20px;
+}
+li,h1,ul{
+  display: inline;
+  padding: 15px;
+}
+ul{
+  margin-left: 330px;
+}
+p{
+  margin-top: 1000px;
+  display: inline-block;
+  align-content: center;
+}
